@@ -1,6 +1,14 @@
 # codecademy-patch-notes
 
-### March 2019 ###
+### 2019 ###
+
+### April ###
+
+- Launched [Learn R]( 📈
+- Launched Learn LOLCode 
+
+
+#### March ####
 
 **Features:**
 
@@ -13,6 +21,7 @@
 - Launched Game Development
 - Launched 
 
-### April 2019 ###
+#### February ####
 
-- Learn LOLCode
+#### January ####
+
