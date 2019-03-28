@@ -27,8 +27,10 @@ Course Updates:
 
 **Course Updates:**
 
-- Launched Game Development
-- Launched 
+- Launched Learn PHP
+- Launched Game Development with Phaser
+- Launched Learn Java
+- Launched Learn C++
 
 ---
 
