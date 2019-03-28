@@ -2,6 +2,8 @@
 
 ### 2019 ###
 
+---
+
 ### April ###
 
 General:
@@ -13,6 +15,7 @@ Course Updates:
 - Launched [Learn R]( 📈
 - Launched Learn LOLCode 
 
+---
 
 #### March ####
 
@@ -27,7 +30,11 @@ Course Updates:
 - Launched Game Development
 - Launched 
 
+---
+
 #### February ####
+
+--- 
 
 #### January ####
 
