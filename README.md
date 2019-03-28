@@ -27,8 +27,8 @@ Course Updates:
 
 **Course Updates:**
 
-- Launched Learn PHP
-- Launched Game Development with Phaser
+- Launched [Learn PHP](https://www.codecademy.com/learn/learn-php)
+- Launched [Game Development with Phaser](https://www.codecademy.com/learn/learn-phaser)
 - Launched Learn Java
 - Launched Learn C++
 
