@@ -12,8 +12,8 @@ Feature Updates:
 
 Course Updates:
 
-- Launched [Learn R]( 📈
-- Launched Learn LOLCode 
+- Launched [Learn R]() 📈
+- Launched [Learn LOLCODE]() 
 
 ---
 
