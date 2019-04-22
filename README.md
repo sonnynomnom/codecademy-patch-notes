@@ -14,6 +14,8 @@ Course Updates:
 
 - Launched [Learn R]() 📈
 - Launched [Learn LOLCODE]() 
+- Launched [Learn C#]()
+- Launched [Learn Hardware Programming with CircuitPython]()
 
 ---
 
